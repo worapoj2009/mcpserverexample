@@ -1,8 +1,9 @@
 "# mcpserverexample" 
 
 add the following commands to your client:
+
 '''
-jason
+ json
 {
   "mcpServers": {
     "calculator-tool": {
